@@ -1,2 +1,4 @@
-#Git practice
+#Git практика
 первое репо
+#Edit
+редактировано с Github
